@@ -1,0 +1,79 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "error": "Error occurred"
+  },
+  "landing": {
+    "title": "Fasal Maitri",
+    "subtitle": "Your Agricultural Assistant",
+    "welcomeMessage": "Welcome to Fasal Maitri",
+    "description": "Please provide your details to continue",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your full name",
+    "locationLabel": "Location",
+    "locationPlaceholder": "Enter your city/village",
+    "languageLabel": "Preferred Language",
+    "languageSelect": "Select your language",
+    "continueButton": "Continue to Fasal Maitri",
+    "settingUp": "Setting up...",
+    "infoText": "Your information helps us provide personalized agricultural guidance",
+    "tagline": "Empowering every farmer with instant, voice-driven agricultural wisdom"
+  },
+  "home": {
+    "title": "Fasal Maitri",
+    "tagline": "Empowering every farmer with instant, voice-driven agricultural wisdom - bridging the gap between tradition and technology for a prosperous harvest.",
+    "voicePrompt": "Ask your question",
+    "listening": "Listening...",
+    "textPrompt": "Type your question here...",
+    "uploadFile": "Upload File",
+    "uploadImage": "Upload Image",
+    "submitQuery": "Submit Query",
+    "processing": "Processing...",
+    "quickSuggestions": "Quick suggestions:",
+    "typeToWrite": "Click here to type",
+    "suggestions": {
+      "weather": "Weather forecast",
+      "diseases": "Crop diseases", 
+      "prices": "Market prices",
+      "schemes": "Government schemes"
+    }
+  },
+  "news": {
+    "title": "Latest Agricultural News",
+    "subtitle": "Stay updated with real-time farming and agriculture news",
+    "loadMore": "Load More News",
+    "trending": "Trending",
+    "categories": {
+      "policy": "Policy",
+      "market": "Market",
+      "technology": "Technology",
+      "weather": "Weather"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "profile": "Profile",
+    "cropCalendar": "Crop Calendar",
+    "news": "News",
+    "schemes": "Government Schemes",
+    "community": "Community",
+    "qna": "QnA Session"
+  },
+  "profile": {
+      "languageMap": {
+        "en": "अंग्रेज़ी",
+        "hi": "हिंदी",
+        "pa": "ਪੰਜਾਬੀ",
+        "gu": "ગુજરાતી",
+        "mr": "मराठी",
+        "ta": "தமிழ்",
+        "te": "తెలుగు",
+        "kn": "ಕನ್ನಡ",
+        "ml": "മലയാളം",
+        "bn": "বাংলা"
+      }
+    }
+}

@@ -1,0 +1,11 @@
+Flask==2.3.3
+flask-cors==4.0.0
+openai-whisper==20231117
+deep-translator==1.11.4
+gtts==2.4.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+requests==2.31.0
+numpy==1.24.3
+torch==2.1.0
+torchaudio==2.1.0
