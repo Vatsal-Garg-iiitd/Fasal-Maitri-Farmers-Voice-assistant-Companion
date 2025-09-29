@@ -15,7 +15,7 @@ const PlantRecognition = ({ onClose }) => {
   const streamRef = useRef(null);
 
   // Initialize Gemini AI - Replace with your API key
-  const genAI = new GoogleGenerativeAI('AIzaSyBZvpdKEqZm422fsMJhQKOd3aZdYkJ4p4c');
+  const genAI = new GoogleGenerativeAI(Gemini_api_key);
   const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
   useEffect(() => {
