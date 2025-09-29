@@ -26,7 +26,7 @@ logging.basicConfig(
 )
 
 # Configure Gemini AI
-genai.configure(api_key=os.getenv('GEMINI_API_KEY', 'AIzaSyCC6wtE_lEFSmBe-oCCY8LXx_y8hORsgmU'))
+genai.configure(api_key=os.getenv('GEMINI_API_KEY', Gemini_api_key))
 
 app = Flask(__name__)
 CORS(app)
