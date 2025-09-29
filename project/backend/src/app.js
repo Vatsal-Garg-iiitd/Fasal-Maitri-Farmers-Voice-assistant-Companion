@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(cors()); // Needed for cross-origin requests
 
 // Constants
-const DB_PATH = "mongodb+srv://laksh:laksh@backend.z28uyt1.mongodb.net/Fasal_Maitri?retryWrites=true&w=majority&appName=Backend";
+const DB_PATH = Monngo_DB_Path;
 const PORT = 5000;
 
 // Setup MongoDB session store (note: pass DB name here)
